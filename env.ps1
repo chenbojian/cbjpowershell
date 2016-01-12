@@ -1,3 +1,3 @@
-Function $global:vi {
+Function vi {
     st $args
 }
